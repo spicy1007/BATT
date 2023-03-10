@@ -83,7 +83,7 @@ CIFAR-10:
 ```train
 python batt_r.py --dataset=cifar10 --gpu=0
 ```
-ImageNet:
+GTSRB:
 ```train
 python batt_r.py --dataset=gtsrb --gpu=0
 ```
