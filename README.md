@@ -7,11 +7,11 @@ This is the official implementation of our paper [BATT](https://arxiv.org/abs/22
 ## Reference
 If our work or this repo is useful for your research, please cite our paper as follows:
 ```
-@inproceedings{li2022defending,
+@article{xu2022batt,
   title={BATT: Backdoor Attack with Transformation-based Triggers},
   author={Xu, Tong and Li, Yiming and Jiang, Yong and Xia, Shu-Tao},
-  booktitle={ICASSP},
-  year={2023}
+  journal={arXiv preprint arXiv:2211.01806},
+  year={2022}
 }
 ```
 
@@ -30,13 +30,16 @@ pip install -r requirements.txt
 Make sure the directory follows:
 ```File Tree
 BATT
-├── model
+├── attack
+│   ├── batt_r
+│   └── batt_t
+├── network
 │   ├── resnet
 │   └── vgg
 ├── data
 │   ├── cifar10
 │   └── GTSRB
-|
+
 ```
 
 ## Dataset Preparation
@@ -49,7 +52,7 @@ data
 │   └── test
 ```
 >📋  Data Download Link:  
->[data]( wait to update )
+>[data](https://www.dropbox.com/scl/fo/2ych8h7zhe1vtoiahmdix/h?dl=0&rlkey=kl070v04xhj4930hx3mz54szr)
 
 
 ## Attack
@@ -69,4 +72,4 @@ result
 │   └── ...
 ```
 >📋  Sample Infected Model Download Link:  
->[model]( wait to update )
+>[model](https://www.dropbox.com/scl/fo/tcvvvi2fwrobqknonhe1j/h?dl=0&rlkey=uyh3c7zj2otil09xtk1f1ndw9)

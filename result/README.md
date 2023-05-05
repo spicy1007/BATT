@@ -1,11 +1,10 @@
-## Dataset Preparation
-The directory ``data`` follows:
+## Infected model
+Get attacked model in the dictionary 'result':
 ```File Tree
-data
-├── cifar-10-python.tar.gz 
-├── GTSRB
-│   ├── train
-│   └── test
+result
+├── attack
+│   ├── batt_r_cifar10.pth
+│   └── ...
 ```
->📋  Data Download Link:  
->[data](https://www.dropbox.com/scl/fo/2ych8h7zhe1vtoiahmdix/h?dl=0&rlkey=kl070v04xhj4930hx3mz54szr)
+>📋  Sample Infected Model Download Link:  
+>[model](https://www.dropbox.com/scl/fo/tcvvvi2fwrobqknonhe1j/h?dl=0&rlkey=uyh3c7zj2otil09xtk1f1ndw9)
