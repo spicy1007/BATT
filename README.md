@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Make sure the directory follows:
 ```File Tree
 BATT
-├── attack
+├── train
 │   ├── batt_r
 │   └── batt_t
 ├── network
