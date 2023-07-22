@@ -52,7 +52,7 @@ poisoned_train_dataset, poisoned_test_dataset = badnets.get_poisoned_dataset()
 # Train Infected Model
 schedule = {
     'device': 'GPU',
-    'CUDA_VISIBLE_DEVICES': '1',
+    'CUDA_VISIBLE_DEVICES': '0',
     'GPU_num': 1,
 
     'benign_training': False, # Train Infected Model
@@ -127,7 +127,7 @@ poisoned_train_dataset, poisoned_test_dataset = badnets.get_poisoned_dataset()
 # Train Infected Model
 schedule = {
     'device': 'GPU',
-    'CUDA_VISIBLE_DEVICES': '3',
+    'CUDA_VISIBLE_DEVICES': '0',
     'GPU_num': 1,
 
     'benign_training': False, # Train Infected Model
