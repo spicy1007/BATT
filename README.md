@@ -75,4 +75,4 @@ result
 >[model](https://www.dropbox.com/scl/fo/tcvvvi2fwrobqknonhe1j/h?dl=0&rlkey=uyh3c7zj2otil09xtk1f1ndw9)
 
 ## Acknowledgement
-Thanks to Backdoorbox(https://github.com/THUYimingLi/BackdoorBox) for the framework code they provide.
+Thanks to Backdoorbox (https://github.com/THUYimingLi/BackdoorBox) for the framework code they provide.
