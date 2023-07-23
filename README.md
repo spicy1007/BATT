@@ -7,11 +7,11 @@ This is the official implementation of our paper [BATT](https://arxiv.org/abs/22
 ## Reference
 If our work or this repo is useful for your research, please cite our paper as follows:
 ```
-@article{xu2022batt,
-  title={BATT: Backdoor Attack with Transformation-based Triggers},
+@inproceedings{xu2023batt,
+  title={BATT: Backdoor Attack with Transformation-Based Triggers},
   author={Xu, Tong and Li, Yiming and Jiang, Yong and Xia, Shu-Tao},
-  journal={arXiv preprint arXiv:2211.01806},
-  year={2022}
+  booktitle={ICASSP},
+  year={2023},
 }
 ```
 
