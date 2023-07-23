@@ -1,6 +1,6 @@
 # Backdoor Attack with Transformation-Based Triggers
 
-This is the official implementation of our paper [BATT](https://arxiv.org/abs/2211.01806), accepted by ICASSP, 2023. This research project is developed based on Python 3 and Pytorch, created by [Tong Xu](https://github.com/spicy1007) and [Yiming Li](http://liyiming.tech/)
+This is the official implementation of our paper [BATT: Backdoor Attack with Transformation-Based Triggers](https://arxiv.org/abs/2211.01806), accepted by ICASSP, 2023. This research project is developed based on Python 3 and Pytorch, created by [Tong Xu](https://github.com/spicy1007) and [Yiming Li](http://liyiming.tech/)
 
 
 
